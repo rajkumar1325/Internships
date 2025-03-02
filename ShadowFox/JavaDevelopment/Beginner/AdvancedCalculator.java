@@ -10,7 +10,6 @@ public class AdvancedCalculator {
 
         System.out.println("Enter your number : ");
         int num1 = sc.nextInt();
-
         while (choice == 1) {
             System.out.println("Enter operation to perform. eg: + - * /...");
             String op = sc.next();
